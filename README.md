@@ -17,7 +17,7 @@ Implementasi ini menggunakan `List<T>` dari Dart untuk menyimpan data. Class
 
 ## 💻 Penjelasan Kode
 
-Kode program berada di file [`modul_1.dart`](./modul_1.dart) dan terdiri dari
+Kode program berada di file [`modul1.dart`](./modul1.dart) dan terdiri dari
 class `Queue<T>` serta fungsi `main()`:
 
 1. **Class `Queue<T>`**
