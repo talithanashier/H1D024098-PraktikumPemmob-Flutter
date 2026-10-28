@@ -74,7 +74,7 @@ cd H1D024098-TalithaMaharaniNashier-FlutterPraktikumPemmob
 3. Jalankan program:
 
 ```powershell
-dart run modul_1.dart
+dart run modul1.dart
 ```
 
 Program ini tidak memerlukan package tambahan. Jika belum memasang Git, unduh
