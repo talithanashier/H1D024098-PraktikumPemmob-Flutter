@@ -67,7 +67,7 @@ dart --version
 1. Clone repository dan masuk ke folder proyek:
 
 ```powershell
-git clone https://github.com/talithanashier/H1D024098-TalithaMaharaniNashier-FlutterPraktikumPemmob.git
+git clone https://github.com/talithanashier/H1D024098-PraktikumPemmob-Flutter.git
 cd H1D024098-TalithaMaharaniNashier-FlutterPraktikumPemmob
 ```
 
