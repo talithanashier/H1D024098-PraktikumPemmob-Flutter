@@ -79,4 +79,4 @@ dart run modul_1.dart
 
 Program ini tidak memerlukan package tambahan. Jika belum memasang Git, unduh
 repository melalui tombol **Code → Download ZIP** di GitHub, ekstrak ZIP,
-buka terminal di folder hasil ekstrak, lalu jalankan `dart run modul_1.dart`.
+buka terminal di folder hasil ekstrak, lalu jalankan `dart run modul1.dart`.
